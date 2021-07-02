@@ -1,0 +1,2 @@
+# firefox, 0, 0
+C:\Program Files\Mozilla Firefox\firefox.exe

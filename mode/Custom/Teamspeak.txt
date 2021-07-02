@@ -1,0 +1,7 @@
+# Teamspeak, 0
+\\teamspeakapps\\
+createfileassoc.exe
+error_report.exe
+package_inst.exe
+ts3client_win64.exe
+update.exe

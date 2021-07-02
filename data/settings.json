@@ -1,0 +1,1196 @@
+{
+  "Redirector": {
+    "ProxyProtocol": "Both",
+    "DNSHijack": true,
+    "DNSHijackHost": "1.1.1.1:53",
+    "ICMPHost": "1.2.4.8",
+    "ICMPHijack": false,
+    "RedirectorSS": false,
+    "ChildProcessHandle": false
+  },
+  "Server": [
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "31.171.153.165",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Albania \uD83C\uDDE6\uD83C\uDDF1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "89.187.168.44",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Austria \uD83C\uDDE6\uD83C\uDDF9"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.210.217.107",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Belgium \uD83C\uDDE7\uD83C\uDDEA"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.99.3.7",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Bosnia & Herzegovina \uD83C\uDDE7\uD83C\uDDE6"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "37.120.152.197",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Bulgaria \uD83C\uDDE7\uD83C\uDDEC"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "89.164.99.111",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Croatia \uD83C\uDDED\uD83C\uDDF7"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "195.47.194.42",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Cyprus \uD83C\uDDE8\uD83C\uDDFE"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.152.64.151",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Czech Republic \uD83C\uDDE8\uD83C\uDDFF"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "95.174.65.73",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Denmark \uD83C\uDDE9\uD83C\uDDF0"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.174.159.67",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Estonia \uD83C\uDDEA\uD83C\uDDEA"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "196.244.191.181",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Finland \uD83C\uDDEB\uD83C\uDDEE"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.166.84.33",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "France \uD83C\uDDEB\uD83C\uDDF7 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "143.244.57.73",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "France \uD83C\uDDEB\uD83C\uDDF7 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.108.106.158",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "France \uD83C\uDDEB\uD83C\uDDF7 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "62.171.151.160",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Germany \uD83C\uDDE9\uD83C\uDDEA 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "213.136.64.21",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Germany \uD83C\uDDE9\uD83C\uDDEA 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "193.29.106.27",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Germany \uD83C\uDDE9\uD83C\uDDEA 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.158.135.34",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Germany \uD83C\uDDE9\uD83C\uDDEA 4"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "194.150.167.42",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Greece \uD83C\uDDEC\uD83C\uDDF7"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "37.120.144.213",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Hungary \uD83C\uDDED\uD83C\uDDFA"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "82.221.143.71",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Iceland \uD83C\uDDEE\uD83C\uDDF8"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.108.128.114",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Ireland \uD83C\uDDEE\uD83C\uDDEA"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "82.102.26.117",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Italy \uD83C\uDDEE\uD83C\uDDF9 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "84.17.58.190",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Italy \uD83C\uDDEE\uD83C\uDDF9 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "188.92.78.142",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Latvia \uD83C\uDDF1\uD83C\uDDFB"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.153.151.96",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Luxembourg \uD83C\uDDF1\uD83C\uDDFA"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "178.175.128.237",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Moldova \uD83C\uDDF2\uD83C\uDDE9"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "143.244.42.66",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Netherlands \uD83C\uDDF3\uD83C\uDDF1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.225.28.67",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Macedonia \uD83C\uDDF2\uD83C\uDDF0"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "91.219.215.51",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Norway \uD83C\uDDF3\uD83C\uDDF4"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.246.208.176",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Poland \uD83C\uDDF5\uD83C\uDDF1 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "178.255.44.69",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Poland \uD83C\uDDF5\uD83C\uDDF1 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "91.205.230.164",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Portugal \uD83C\uDDF5\uD83C\uDDF9 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "176.61.146.97",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Portugal \uD83C\uDDF5\uD83C\uDDF9 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "194.39.127.233",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Portugal \uD83C\uDDF5\uD83C\uDDF9 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.102.217.157",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Romania \uD83C\uDDF7\uD83C\uDDF4"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "188.92.78.200",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Russia \uD83C\uDDF7\uD83C\uDDFA 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "188.92.78.203",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Russia \uD83C\uDDF7\uD83C\uDDFA 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "152.89.160.117",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Serbia \uD83C\uDDF7\uD83C\uDDF8"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.76.8.215",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Slovakia \uD83C\uDDF8\uD83C\uDDF0"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "195.158.249.42",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Slovenia \uD83C\uDDF8\uD83C\uDDEE"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.188.61.3",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Spain \uD83C\uDDEA\uD83C\uDDF8 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "188.208.141.98",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Spain \uD83C\uDDEA\uD83C\uDDF8 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.153.150.50",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Spain \uD83C\uDDEA\uD83C\uDDF8 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.76.9.36",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Sweden \uD83C\uDDF8\uD83C\uDDEA"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "156.146.62.56",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Switzerland \uD83C\uDDE8\uD83C\uDDED"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "107.150.95.155",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Turkey \uD83C\uDDF9\uD83C\uDDF7 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "45.9.238.23",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Ukraine \uD83C\uDDFA\uD83C\uDDE6"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "81.19.214.36",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United Kingdom \uD83C\uDDEC\uD83C\uDDE7 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.108.105.180",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United Kingdom \uD83C\uDDEC\uD83C\uDDE7 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "84.39.114.86",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United Kingdom \uD83C\uDDEC\uD83C\uDDE7 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "91.206.168.19",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Argentina \uD83C\uDDE6\uD83C\uDDF7"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "191.96.13.212",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Brazil \uD83C\uDDE7\uD83C\uDDF7"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "172.98.82.229",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Canada \uD83C\uDDE8\uD83C\uDDE6 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "162.253.71.211",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Canada \uD83C\uDDE8\uD83C\uDDE6 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "66.115.147.67",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Canada \uD83C\uDDE8\uD83C\uDDE6 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "31.169.121.5",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Chile \uD83C\uDDE8\uD83C\uDDF1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "45.129.32.27",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Colombia \uD83C\uDDE8\uD83C\uDDF4"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "176.227.241.24",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Costa Rica \uD83C\uDDE8\uD83C\uDDF7"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "194.41.112.30",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Mexico \uD83C\uDDF2\uD83C\uDDFD"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "181.40.18.47",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Paraguay \uD83C\uDDF5\uD83C\uDDFE"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "154.16.169.3",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "173.237.207.38",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "172.93.146.212",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "138.199.40.169",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 4"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "199.229.250.167",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 5"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "143.244.60.174",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 6"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "104.244.208.203",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 7"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "174.128.245.151",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 8"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "45.43.14.103",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 9"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "63.141.248.179",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 10"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "23.105.160.144",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 11"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "104.200.131.172",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 12"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "148.72.174.38",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 13"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "209.216.92.3",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 14"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "172.83.42.3",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 15"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "154.16.171.215",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 16"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "66.115.177.151",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 17"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "172.98.87.37",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 18"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "66.115.166.147",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 19"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "66.115.182.84",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 20"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "79.110.54.115",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 21"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "89.187.187.68",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 22"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "199.10.64.69",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 23"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.124.240.157",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United States \uD83C\uDDFA\uD83C\uDDF8 24"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "45.248.78.45",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Australia \uD83C\uDDE6\uD83C\uDDFA 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "45.248.79.69",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Australia \uD83C\uDDE6\uD83C\uDDFA 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "144.48.39.131",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Australia \uD83C\uDDE6\uD83C\uDDFA 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "144.48.38.179",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Australia \uD83C\uDDE6\uD83C\uDDFA 4"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "180.149.228.27",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Australia \uD83C\uDDE6\uD83C\uDDFA 5"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "94.20.21.85",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Azerbaijan \uD83C\uDDE6\uD83C\uDDFF"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "212.102.42.199",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Hong Kong \uD83C\uDDED\uD83C\uDDF0"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "137.59.52.109",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "India \uD83C\uDDEE\uD83C\uDDF3 1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "103.156.50.95",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "India \uD83C\uDDEE\uD83C\uDDF3 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "103.94.27.229",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "India \uD83C\uDDEE\uD83C\uDDF3 3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "103.120.66.221",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Indonesia \uD83C\uDDEE\uD83C\uDDE9"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "95.57.207.202",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Kazakhstan \uD83C\uDDF0\uD83C\uDDFF"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "42.0.30.211",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Malaysia \uD83C\uDDF2\uD83C\uDDFE"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "180.149.231.43",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "New Zealand \uD83C\uDDF3\uD83C\uDDFF"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "45.134.224.5",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Philippines \uD83C\uDDF5\uD83C\uDDED"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "156.146.56.137",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Singapore \uD83C\uDDF8\uD83C\uDDEC"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "27.255.77.197",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "South Korea \uD83C\uDDF0\uD83C\uDDF7"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "2.58.242.45",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Taiwan \uD83C\uDDF9\uD83C\uDDFC"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "103.253.74.7",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Thailand \uD83C\uDDF9\uD83C\uDDED"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "202.143.110.29",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Vietnam \uD83C\uDDFB\uD83C\uDDF3"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "87.239.255.111",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Israel \uD83C\uDDEE\uD83C\uDDF1"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "41.208.72.157",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Libya \uD83C\uDDF1\uD83C\uDDFE"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "102.165.23.4",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Nigeria \uD83C\uDDF3\uD83C\uDDEC"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "102.165.47.130",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "South Africa \uD83C\uDDFF\uD83C\uDDE6"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "185.195.79.21",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "Turkey \uD83C\uDDF9\uD83C\uDDF7 2"
+    },
+    {
+      "Type": "SS",
+      "EncryptMethod": "aes-256-gcm",
+      "Password": "x23Z4LGkGDkThZ9Kaz4DURQp",
+      "Group": "NONE",
+      "Hostname": "176.125.231.21",
+      "Port": 40093,
+      "Rate": 1,
+      "Remark": "United Arab Emirates \uD83C\uDDE6\uD83C\uDDEA"
+    }
+  ],
+  "AioDNS": {
+    "ChinaDNS": "223.5.5.5:53",
+    "OtherDNS": "1.1.1.1:53",
+    "ListenPort": 253
+  },
+  "CheckBetaUpdate": false,
+  "CheckUpdateWhenOpened": true,
+  "DetectionTick": 10,
+  "ExitWhenClosed": false,
+  "HTTPLocalPort": 2802,
+  "Language": "System",
+  "LocalAddress": "127.0.0.1",
+  "MinimizeWhenStarted": false,
+  "ModeComboBoxSelectedIndex": 25,
+  "ProfileCount": 4,
+  "Profiles": [
+    {
+      "Index": 0,
+      "ModeRemark": "Discord",
+      "ProfileName": "Discord",
+      "ServerRemark": "India \uD83C\uDDEE\uD83C\uDDF3 1"
+    },
+    {
+      "Index": 1,
+      "ModeRemark": "Teamspeak",
+      "ProfileName": "Teamspeak",
+      "ServerRemark": "India \uD83C\uDDEE\uD83C\uDDF3 1"
+    },
+    {
+      "Index": 2,
+      "ModeRemark": "Discord with Teamspeak",
+      "ProfileName": "Discord and Teamspeak",
+      "ServerRemark": "India \uD83C\uDDEE\uD83C\uDDF3 1"
+    }
+  ],
+  "ProfileTableColumnCount": 5,
+  "RequestTimeout": 10000,
+  "ResolveServerHostname": false,
+  "RunAtStartup": false,
+  "ServerComboBoxSelectedIndex": 110,
+  "ServerTCPing": true,
+  "Socks5LocalPort": 2801,
+  "StartedPingInterval": -1,
+  "StartWhenOpened": false,
+  "StopWhenExited": false,
+  "STUN_Server": "stun.syncthing.net",
+  "STUN_Server_Port": 3478,
+  "SubscribeLink": [],
+  "TUNTAP": {
+    "Address": "10.0.236.10",
+    "HijackDNS": "tcp://1.1.1.1:53",
+    "Gateway": "10.0.236.1",
+    "Netmask": "255.255.255.0",
+    "ProxyDNS": false,
+    "UseCustomDNS": false,
+    "BypassIPs": []
+  },
+  "UpdateServersWhenOpened": false,
+  "V2RayConfig": {
+    "AllowInsecure": true,
+    "KcpConfig": {
+      "congestion": false,
+      "downlinkCapacity": 100,
+      "mtu": 1350,
+      "readBufferSize": 2,
+      "tti": 50,
+      "uplinkCapacity": 12,
+      "writeBufferSize": 2
+    },
+    "UseMux": false,
+    "V2rayNShareLink": true,
+    "XrayCone": false
+  }
+}

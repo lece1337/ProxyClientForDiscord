@@ -1,0 +1,2 @@
+# teamspeak1, 0, 0
+G:\teamspeak\ts3client_win64.exe

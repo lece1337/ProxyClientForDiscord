@@ -1,0 +1,2 @@
+# plutonium, 0, 0
+C:\Users\Administrator\AppData\Local\Plutonium\bin\plutonium-bootstrapper-win32.exe

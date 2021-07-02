@@ -1,0 +1,8 @@
+Other address is 139.59.49.16:3479
+Binding test: Success
+Local address: 192.168.0.196:63019
+Mapped address: 176.125.231.22:16078
+Nat mapping behavior: EndpointIndependent
+Nat filtering behavior: AddressAndPortDependent
+result: 4
+

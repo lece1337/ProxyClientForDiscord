@@ -1,0 +1,8 @@
+# Discord with Teamspeak, 0
+Discord
+error_report.exe
+createfileassoc.exe
+package_inst.exe
+QtWebEngineProcess.exe
+redist_downloader_64.exe
+ts3client_win64.exe
